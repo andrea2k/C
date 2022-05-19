@@ -1,9 +1,5 @@
 
-/** Name: Andrea Li
- * Student ID: 13990268
- * Course: Inleiding Programmeren
- * Institution: University of Amsterdam
- *
+/** 
  * Rooster.c:
  * Hierin worden functies geimplementeerd die handig zijn om het daadwerklijk
  * spel te maken, met eerste functies kun je een spelveld maken met daarin alle
