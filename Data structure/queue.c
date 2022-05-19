@@ -1,13 +1,3 @@
-/** Name: Andrea Li
- * Student ID: 13990268
- * Course: Datastructuur
- * Institution: University of Amsterdam
- *
- * queue.c:
- * Functions in this queue API are useful to create the Breadth search solver
- * algorithm , the queue data structures will be used in maze_solver_bfs.c.
- *
- */
 
 #include <stdio.h>
 #include <stdlib.h>
