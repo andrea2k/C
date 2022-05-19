@@ -1,14 +1,3 @@
-/** Name: Andrea Li
- * Student ID: 13990268
- * Course: Datastructuur
- * Institution: University of Amsterdam
- *
- * Stack.c:
- * Functions in this stack API are useful to create the Depth search solver
- * algorithm , the stack data structures will be used in maze_solver_dfs.c.
- *
- */
-
 #include <stdio.h>
 #include <stdlib.h>
 
